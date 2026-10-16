@@ -1,0 +1,33 @@
+<Doctype html>
+<html>
+<head>
+    <title>The Tower
+    </title>
+</head>
+<script>
+//my varibles
+var word = Page;
+function search() {
+alert('what are u looking for!')
+}
+</script>
+<style>
+body {
+background-color:orange;
+ }
+h1 {
+font-size:50px;
+font-family:elephant;
+text-align:center;
+color:blue;
+ }
+</style>
+  <body>
+<h1>
+My first page
+</h1>
+<input type="text" id="type" placeholder="type here";>
+</input>
+<button onClick=search()> SEARCH  </button>
+  </body>
+</html>
